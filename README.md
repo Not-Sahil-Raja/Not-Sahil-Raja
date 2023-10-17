@@ -1,5 +1,7 @@
 ### Hi there 👋
-/header.png
+<img src="header.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 <!--
 **Not-Sahil-Raja/Not-Sahil-Raja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
