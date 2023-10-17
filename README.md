@@ -1,4 +1,3 @@
-<h1 align="center">Hello there Its me Sahil</h1>
 <img src="header.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
