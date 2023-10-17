@@ -9,7 +9,7 @@
 
 - 🌱 Currently in **my third year of studies.**
 
-- 📫 How to reach me **sahilraja2002@gmail.com**
+- 📧 How to reach me **sahilraja2002@gmail.com**
 
 <h3 align="left">Conntact ME:</h3>
 <p align="left">
