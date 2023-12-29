@@ -1,6 +1,11 @@
-<img src="header.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Its Me Sahil
+=============================================================================================================================
+
+<p align="center">
+<img src="https://github.com/Not-Sahil-Raja/Not-Sahil-Raja/assets/145694814/b30e7ce8-67cf-4439-8a27-31ec16a0d90e" />
+</p>
+
+
 <h3 align="center">A passionate web developer trying to learn something</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=not-sahil-raja&label=Profile%20views&color=0e75b6&style=flat" alt="not-sahil-raja" /> </p>
