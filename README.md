@@ -39,7 +39,7 @@
 
 #### Full-Time Software Developer &nbsp;·&nbsp; Building things that matter
 
-With 1+ year of professional experience shipping web apps, websites, and Android apps. I work across the entire stack - React & React Native on the frontend, Go & PostgreSQL on the backend. When I'm not writing code, I'm pushing pixels in Figma or Photoshop. Reach me at **sahilraja2002@gmail.com**
+With 1+ year of professional experience shipping web apps, websites, and Android apps. I work across the entire stack - React & React Native on the frontend, Go & PostgreSQL on the backend. When I'm not writing code, I'm pushing pixels in Figma or vertices in Blender. Reach me at **sahilraja2002@gmail.com**
 
 ---
 ### Where to find me
